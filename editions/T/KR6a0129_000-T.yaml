@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0129/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 須摩提女經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0128a.xml
+    old_id: T02n0128a
+hash: sha256:451db7ce34d1809e071b274c94d48ea862cfd3662cc53fd839c1bda6418decc4
