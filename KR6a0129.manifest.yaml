@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0129/v1
 canonical_location: https://kanripo.org/bkk/KR6a0129/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 須摩提女經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0129_000.yaml, hash: 'sha256:451db7ce34d1809e071b274c94d48ea862cfd3662cc53fd839c1bda6418decc4'}
-  - {seq: 1, filename: KR6a0129_001.yaml, hash: 'sha256:26ade72e116fd1b3051b75ae1b0438ed8dc339ba23e770517943a4600c429754'}
+  - {seq: 1, filename: KR6a0129_001.yaml, hash: 'sha256:d381e93caa599d33eb9a935fbdda244487aee1df10a1e1e4fd0edd95ecfe4039'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0129_000.markers.yaml, hash: 'sha256:f63fb63b11fc2f5c48c6d220d6e9caf46e42542f59ad1362a90b66303ba395b5'}
-  - {seq: 1, role: markers, filename: assets/KR6a0129_001.markers.yaml, hash: 'sha256:58d01a8562668d7576e543bfd25887976b71e4c88fe1b92a8d4c5dfb95cb0673'}
+  - {seq: 1, role: markers, filename: assets/KR6a0129_001.markers.yaml, hash: 'sha256:b6bae9e62378e158a628751e234c03ac33dd8102eef6c808dd4c9735712f2ccc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 須摩提女經
   type: juan
   level: 1
-hash: sha256:7594ab04618a1afdffd3872325d7df2df745cae36ad22779fed1296207ea8ce1
+hash: sha256:83283a9c4854368047ca6f20f047fbd89ae4ea6727fa30f2683358b92c4addd4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
